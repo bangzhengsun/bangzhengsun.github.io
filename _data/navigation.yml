@@ -4,3 +4,9 @@ main:
 
   - title: "CV"
     url: /files/BSun_CV_v2026Oct.pdf
+
+  - title: "Astrophotography"
+    url: /astrophotography/
+
+  - title: "Misc"
+    url: /misc/
